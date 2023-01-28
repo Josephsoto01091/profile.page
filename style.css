@@ -1,0 +1,271 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.flexed{
+    display: flex;
+    margin: 10px;
+}
+
+.navtitle {
+    color: white;
+}
+
+.navbg{
+    background-color: black;
+    height: 50px;
+    display: flex;
+}
+
+.nav {
+    background-color:black;
+    color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-left: 29%;
+    margin-right: 20%;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    list-style: none;
+    gap: 20px;
+    margin-right: 180px;
+
+    
+
+}
+
+button {
+    background-color: blue;
+    color: aliceblue;
+    display: flex;
+
+    
+
+}
+
+a {
+    color: white;
+    
+}
+
+.main-wrapper{
+    display: flex;
+    width: 1000px;
+    height: 100px;
+    margin-left: 300px;
+}
+
+
+
+
+.left-container{
+    background-color: white;
+    width: 500px;
+    height: 500px;
+}
+.right-container{
+    background-color:white;
+    width: 500px;
+    height: 500px;
+}
+
+.usercard-container{
+    background-color: white;
+    height: 250px;
+    width: 350px;
+    margin-left: 95px;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: black;
+    
+
+}
+.banner{
+    background-color: teal;
+    height: 50px;
+}
+
+h2 {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+#user-circle {
+    width: 60px;
+    margin-left: 35px;
+    margin-top: 25px;
+    
+
+
+}
+
+#map-marker {
+    height: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+
+}
+
+#gear {
+    height: 15px;
+    margin-left: 8px;
+}
+
+#editprofile {
+    color: blue;
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+
+
+.education-container{
+    background-color: white;
+    height: 150px;
+    width: 350px;
+    margin-left: 95px;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: black;
+    
+}
+
+p { 
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+
+.banners{
+    background-color: gray;
+    color: white;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h4, h5 {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.education-paragraph {
+    margin-right: 15px;
+}
+
+.request-container{
+    background-color: white;
+    height: 150px;
+    width: 200px;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.banner3 {
+    background-color: grey;
+    color: white;
+    height: 50px;
+    
+}
+
+#usercircle-request {
+    height: 20px;
+    margin-top: 10px;
+
+}
+
+
+#accept-circle {
+    height: 20px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+#close-circle {
+    height: 20px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+#usercircle-request2 {
+    height: 20px;
+    margin-top: 10px;
+}
+
+#accept-circle2 {
+    height: 20px;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+#close-circle2 {
+    height: 20px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.connection-container{
+    background-color: white;
+    height: 220px;
+    width: 200px;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: black;
+    
+}
+
+.banner4 {
+    background-color: gray;
+    color: white;
+    height: 50px;
+}
+
+#usercircle-request3 {
+    height: 20px;
+    margin-top: 10px;
+}
+
+#usercircle-request4 {
+    height: 20px;
+    margin-top: 10px;
+}
+
+#usercircle-request5 {
+    height: 20px;
+    margin-top: 10px;
+}
+
+#usercircle-request6 {
+    height: 20px;
+    margin-top: 10px;
+}
+
+
+
+
+.viewmore {
+    color: blue;
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    
+
+}
+
+#viewmore{
+    color: blue;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
